@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://preview.redd.it/was-anyone-else-confused-by-the-size-of-the-fnaf-2-office-v0-siwfrz9uxlaa1.png?auto=webp&s=b1cd60190ef85b3b57006726e47da4232a108544);
+    background-repeat: no-repeat;
+    background-size: 1370px 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header{
+    font-size: 20px;
+    color: white;
+    text-shadow: 3px 4px black;
+}
+
+.title{
+    font-size: 50px;
+    color: red;
+    text-shadow: 1px 2px white;
+    margin: 28px;
+}
+
+strong{
+    color: rgb(68, 68, 219);
+}
+
+ol{
+    background-color: rgb(68, 68, 219);
+    padding: 24px;
+    list-style-type: none;
+    border-radius: 20px;
+}
+
+li{
+    background-color: white;
+    height: 40px;
+    font-size: 25px;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.freddy{
+    color: brown;
+}
+
+.bonnie{
+    color: rgb(73, 73, 245);
+}
+
+.chica{
+    color: rgb(255, 255, 49);
+}
+
+.mangle{
+    color: rgb(255, 148, 166);
+}
+
+.ballon{
+    color: red;
+}
+
+li:hover{
+    transition: .5s;
+    font-size: 38px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.puppet{
+    color: black;
+}
+
+img{
+    width: 37px;
+    padding-right: 12px;
+}
