@@ -1,0 +1,65 @@
+
+body{
+    background-image: url(https://i.pinimg.com/originals/85/d6/92/85d692b483b55122ea6f1677b29005dc.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px 590px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    color: rgb(197, 26, 26);
+    text-shadow: 1px 2px black;
+}
+
+h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    text-shadow: 1px 2px rgb(197, 26, 26);
+}
+
+dl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+dt{
+    padding-top: 40px;
+    padding-right: 80px;
+    padding-bottom: 4px;
+    font-size: 30px;
+    text-shadow: 1px 2px black;
+}
+
+.freddy{
+    color: rgb(104, 34, 34);
+}
+
+.bonnie{
+    color: rgb(53, 53, 240);
+}
+
+.chica{
+    color: yellow;
+}
+
+.foxy{
+    color: red;
+}
+
+dd{
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 2px black;
+}

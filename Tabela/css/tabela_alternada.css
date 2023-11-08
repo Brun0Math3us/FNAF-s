@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/1200x/7b/04/04/7b0404e1f71fd06729bc6610f1b356cd.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1400px 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header{
+    background-color: rgb(165, 23, 23);
+    padding-left: 30%;
+    padding-right: 32%;
+}
+
+h1{
+    font-size: 50px;
+    margin: 20px;
+    text-shadow: 3px 4px black;
+    color: white;
+}
+
+table{
+    background-color: white;
+    margin-top: 120px;
+    width: 600px;
+    height: 200px;
+    border-width: 10px;
+}
+
+th, tr, td{
+    padding: 5px;
+}
+
+th{
+    font-size: 18px;
+    text-shadow: 2px 3px black;
+    background-color: rgb(165, 23, 23);
+    color: white;
+}
+
+.freddy{
+    background-color: black;
+    color: white;
+}
+
+.toy{
+    background-color: black;
+    color: white;
+}
+
+.chica{
+    background-color: black;
+    color: white;
+}
+
+.puppet{
+    background-color: black;
+    color: white;
+}
+
+.foxy{
+    background-color: black;
+    color: white;
+}
+
+td{
+    background-color: gray;
+    color: white;
+}
