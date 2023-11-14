@@ -50,7 +50,6 @@ li{
 
 .freddy{
     color: rgb(70, 31, 31);
-    list-style-image: url("FNAF 1/img/fnaf_icon1.jpeg");
 }
 
 .bonnie{
@@ -71,4 +70,14 @@ li{
 
 img{
     width: 45px;
+    padding: 1px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li:hover{
+    transition: .5s;
+    font-size: 38px;
 }
